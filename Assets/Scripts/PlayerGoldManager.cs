@@ -57,7 +57,7 @@ public class PlayerGoldManager : MonoBehaviour
         //}// 等同于上面的简写形式
 
         // 播放音效、飘字特效（可选）
-        ShowGoldGainPopup(amount);
+       
     }
 
     // 消耗金币（建造、招募等）
@@ -75,9 +75,5 @@ public class PlayerGoldManager : MonoBehaviour
     // 获取当前金币（其他脚本查询用）
     public int GetCurrentGold() => currentGold;
 
-    // 金币获得飘字特效（额外加分项）
-    private void ShowGoldGainPopup(int amount)
-    {
-        // 实现见下文
-    }
+   
 }
