@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: XC8csSn5BXgYBHJNHbuDoPcEapB2dSGT325q2JrT7JNAYYvRftKpDec=
+guid: B3lO4CqrU3xIZtYZZsiJeE09VhkFGqCgsY1PePDbFnxD0uyutcRFN2A=
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -46,7 +46,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -128,133 +128,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: "\u53F2\u83B1\u59C6-Sheet_0"
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 1
-        width: 28
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 078b8f0ae70f58244baad8a548811de1
-      internalID: 1315300958
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "\u53F2\u83B1\u59C6-Sheet_1"
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 2
-        width: 21
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 06fa6cf52bd73264bbb3c41d11c06733
-      internalID: 1835491020
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "\u53F2\u83B1\u59C6-Sheet_2"
-      rect:
-        serializedVersion: 2
-        x: 70
-        y: 3
-        width: 18
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c4a37ceb4f9064f4fb528b65b1fc1f41
-      internalID: -731244592
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "\u53F2\u83B1\u59C6-Sheet_3"
-      rect:
-        serializedVersion: 2
-        x: 106
-        y: 5
-        width: 12
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 10f2df3119e53df44b4cb8e202976d14
-      internalID: 405678808
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "\u53F2\u83B1\u59C6-Sheet_4"
-      rect:
-        serializedVersion: 2
-        x: 134
-        y: 3
-        width: 18
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bb2a1dbac0e14864bb0156ba6e44c102
-      internalID: -2059454310
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "\u53F2\u83B1\u59C6-Sheet_5"
-      rect:
-        serializedVersion: 2
-        x: 166
-        y: 2
-        width: 21
-        height: 18
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 5425bccf53c3f574b88b822abe0a4d82
-      internalID: -1301110520
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
@@ -265,13 +139,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      "\u53F2\u83B1\u59C6-Sheet_0": 1315300958
-      "\u53F2\u83B1\u59C6-Sheet_1": 1835491020
-      "\u53F2\u83B1\u59C6-Sheet_2": -731244592
-      "\u53F2\u83B1\u59C6-Sheet_3": 405678808
-      "\u53F2\u83B1\u59C6-Sheet_4": -2059454310
-      "\u53F2\u83B1\u59C6-Sheet_5": -1301110520
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

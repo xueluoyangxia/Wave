@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: XC8csSn5BXgYBHJNHbuDoPcEapB2dSGT325q2JrT7JNAYYvRftKpDec=
+guid: XHwfsXj4Wih6i1Nv2L43MvyNLtokxBP6GeMuxqYGj8BQD7xzbw4KIGs=
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -130,34 +130,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "\u53F2\u83B1\u59C6-Sheet_0"
+      name: "\u4EBA\u72691-Sheet_0"
       rect:
         serializedVersion: 2
-        x: 2
+        x: 7
         y: 1
-        width: 28
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 078b8f0ae70f58244baad8a548811de1
-      internalID: 1315300958
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "\u53F2\u83B1\u59C6-Sheet_1"
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 2
         width: 21
-        height: 18
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -165,83 +144,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 06fa6cf52bd73264bbb3c41d11c06733
-      internalID: 1835491020
+      spriteID: 4ff8a4ad9409c374f8b4d4d377082d85
+      internalID: 1451978233
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: "\u53F2\u83B1\u59C6-Sheet_2"
+      name: "\u4EBA\u72691-Sheet_1"
       rect:
         serializedVersion: 2
-        x: 70
-        y: 3
-        width: 18
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c4a37ceb4f9064f4fb528b65b1fc1f41
-      internalID: -731244592
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "\u53F2\u83B1\u59C6-Sheet_3"
-      rect:
-        serializedVersion: 2
-        x: 106
-        y: 5
-        width: 12
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 10f2df3119e53df44b4cb8e202976d14
-      internalID: 405678808
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "\u53F2\u83B1\u59C6-Sheet_4"
-      rect:
-        serializedVersion: 2
-        x: 134
-        y: 3
-        width: 18
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: bb2a1dbac0e14864bb0156ba6e44c102
-      internalID: -2059454310
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: "\u53F2\u83B1\u59C6-Sheet_5"
-      rect:
-        serializedVersion: 2
-        x: 166
-        y: 2
+        x: 39
+        y: 1
         width: 21
-        height: 18
+        height: 31
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -249,8 +165,92 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5425bccf53c3f574b88b822abe0a4d82
-      internalID: -1301110520
+      spriteID: 683a911a823e5da47ae18f730546e310
+      internalID: -431900507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u4EBA\u72691-Sheet_2"
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e4c8aa3e0e0e946bcfd795a53f9747
+      internalID: -985380588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u4EBA\u72691-Sheet_3"
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 1
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f97dd511aad18478b67ce21c17ff68
+      internalID: -1106380132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u4EBA\u72691-Sheet_4"
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1
+        width: 21
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3c304d7641cf74a956eda52bbfc81d
+      internalID: -213232341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u4EBA\u72691-Sheet_5"
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e4e16e79a7c8340aac4adea4a99ec5
+      internalID: 1868056715
       vertices: []
       indices: 
       edges: []
@@ -266,12 +266,12 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      "\u53F2\u83B1\u59C6-Sheet_0": 1315300958
-      "\u53F2\u83B1\u59C6-Sheet_1": 1835491020
-      "\u53F2\u83B1\u59C6-Sheet_2": -731244592
-      "\u53F2\u83B1\u59C6-Sheet_3": 405678808
-      "\u53F2\u83B1\u59C6-Sheet_4": -2059454310
-      "\u53F2\u83B1\u59C6-Sheet_5": -1301110520
+      "\u4EBA\u72691-Sheet_0": 1451978233
+      "\u4EBA\u72691-Sheet_1": -431900507
+      "\u4EBA\u72691-Sheet_2": -985380588
+      "\u4EBA\u72691-Sheet_3": -1106380132
+      "\u4EBA\u72691-Sheet_4": -213232341
+      "\u4EBA\u72691-Sheet_5": 1868056715
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
